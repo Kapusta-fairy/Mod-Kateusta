@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RMGSimpleCustomArmyTemplate>
+	<Stacks>
+		<Item>
+			<Creature>CREATURE_BLACK_RIDER</Creature>
+			<Coef>2</Coef>
+		</Item>
+		<Item>
+			<Creature>CREATURE_MINOTAUR_KING</Creature>
+			<Coef>3</Coef>
+		</Item>
+	</Stacks>
+	<MinPower>12125</MinPower>
+	<MaxPower>97000</MaxPower>
+</RMGSimpleCustomArmyTemplate>

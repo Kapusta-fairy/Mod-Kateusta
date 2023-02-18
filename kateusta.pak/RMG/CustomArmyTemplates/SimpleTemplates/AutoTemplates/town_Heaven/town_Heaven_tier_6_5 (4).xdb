@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RMGSimpleCustomArmyTemplate>
+	<Stacks>
+		<Item>
+			<Creature>CREATURE_PALADIN</Creature>
+			<Coef>1</Coef>
+		</Item>
+		<Item>
+			<Creature>CREATURE_ZEALOT</Creature>
+			<Coef>2</Coef>
+		</Item>
+	</Stacks>
+	<MinPower>12500</MinPower>
+	<MaxPower>100000</MaxPower>
+</RMGSimpleCustomArmyTemplate>

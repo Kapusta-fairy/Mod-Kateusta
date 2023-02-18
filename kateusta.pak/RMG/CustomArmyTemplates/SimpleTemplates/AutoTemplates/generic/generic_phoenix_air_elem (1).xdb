@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RMGSimpleCustomArmyTemplate>
+	<Stacks>
+		<Item>
+			<Creature>CREATURE_PHOENIX</Creature>
+			<Coef>2</Coef>
+		</Item>
+		<Item>
+			<Creature>CREATURE_AIR_ELEMENTAL</Creature>
+			<Coef>5</Coef>
+		</Item>
+		<Item>
+			<Creature>CREATURE_AIR_ELEMENTAL</Creature>
+			<Coef>5</Coef>
+		</Item>
+	</Stacks>
+	<MinPower>27500</MinPower>
+	<MaxPower>220000</MaxPower>
+</RMGSimpleCustomArmyTemplate>

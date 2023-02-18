@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RMGSimpleCustomArmyTemplate>
+	<Stacks>
+		<Item>
+			<Creature>CREATURE_DEATH_KNIGHT</Creature>
+			<Coef>2</Coef>
+		</Item>
+		<Item>
+			<Creature>CREATURE_LICH</Creature>
+			<Coef>3</Coef>
+		</Item>
+		<Item>
+			<Creature>CREATURE_DEMILICH</Creature>
+			<Coef>3</Coef>
+		</Item>
+	</Stacks>
+	<MinPower>22500</MinPower>
+	<MaxPower>180000</MaxPower>
+</RMGSimpleCustomArmyTemplate>
